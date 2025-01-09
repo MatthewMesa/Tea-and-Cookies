@@ -27,6 +27,24 @@ target/
 /.nb-gradle/
 build/
 !**/src/main/**/build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Maven files
+target/
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+*.env
+
 !**/src/test/**/build/
 
 ### VS Code ###
